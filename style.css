@@ -1,0 +1,20 @@
+h1#red{
+    color: red;
+}
+
+table.tabl{
+    border: 1px, lightblue, solid;
+    text-align: center;
+}
+thead.back{
+    background-color: cornflowerblue;
+    border: 1px;
+}
+
+td{
+    border: 1px cadetblue, solid;
+}
+
+tr.back1{
+    background-color: aqua;
+}
