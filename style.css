@@ -8,11 +8,11 @@ table.tabl{
 }
 thead.back{
     background-color: cornflowerblue;
-    border: 1px;
+    border: 1px solid cadetblue;
 }
 
 td{
-    border: 1px cadetblue, solid;
+    border: 1px solid cadetblue;
 }
 
 tr.back1{
